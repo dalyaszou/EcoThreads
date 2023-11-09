@@ -37,10 +37,7 @@ font-family: 'Open Sans' , sans-serif;
   font-size: 60%;
 }
 
-.nav-item a:hover {
-  color: #51be1f; 
-}
-
+/* ..... */
 
 .klimop-container img {
   text-align: center;
@@ -66,9 +63,6 @@ font-size: medium;
   color: #3D8745;
 }
 
-/* .p {
-  font-weight: lighter;
-} */
 
 .blad-container img {
   justify-content: flex-end;
@@ -152,6 +146,8 @@ font-size: medium;
   width: 30px;
   height: 30px;
 }
+
+/* ...... */
 
 @media only screen and (max-width: 768px) {
    
