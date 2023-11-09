@@ -3,6 +3,7 @@ body {margin:0;
 font-family: 'Open Sans' , sans-serif;
 }
 
+/* Navbar code */
 .navbar {
   background-color: #bffdc1;
   padding: 0.625em;
@@ -10,8 +11,8 @@ font-family: 'Open Sans' , sans-serif;
   justify-content: space-between;
   align-items: center;
   overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
+  position: fixed; 
+  top: 0; 
   width: 100%;;
 }
 
@@ -37,13 +38,9 @@ font-family: 'Open Sans' , sans-serif;
 }
 
 .nav-item a:hover {
-  color: #ffffff; /* Change color on hover */
+  color: #51be1f; 
 }
 
-.logo img {
-  width: 12.5em; 
-  height: auto; 
-}
 
 .klimop-container img {
   text-align: center;
@@ -124,13 +121,7 @@ font-size: medium;
 }
 
 
-
-
-
-
-
-
-
+/* Footer code */
 .footer {
   background-color: #EDAFB8;
   color: #fff;
